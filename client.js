@@ -26,3 +26,5 @@ function deleteEm() {
     $(this).parent().remove();
 
 }
+
+/// I know my error is on line 21 :(
